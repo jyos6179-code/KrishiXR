@@ -1,0 +1,17 @@
+{
+  "short_name": "KrishiXR",
+  "name": "KrishiXR - Smart Agriculture AR/VR System",
+  "description": "AR/VR Smart Agriculture Training and Field Assistance System with On-Device AI",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c0a09",
+  "theme_color": "#064e3b",
+  "display": "standalone",
+  "orientation": "any"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "KrishiXR - Smart Agriculture AR/VR Training & Field Assistance",
+  "description": "Offline-ready AR & VR smart agriculture training and field assistance system featuring on-device plant disease detection, 3D farm simulation, and step-by-step AR guided workflows.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
